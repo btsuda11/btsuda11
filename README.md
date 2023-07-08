@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m Brendan
 - ☕: Check out my most recent project: [Lifelift Coffee](https://lifeliftcoffee.onrender.com/) [(Repo Link)](https://github.com/btsuda11/Lifelift-Coffee)
 - 👀 I’m interested in developing and maintaining optimized applications that directly impact people's daily lives.
-- 🌱 I’m currently learning TypeScript, Python, and ML!
 - ❤️ In my free time, I enjoy spending time with friends and family, playing basketball and tennis, and watching anime.
 - 📫 How to reach me: [brendantsuda@gmail.com](mailto:brendantsuda@gmail.com) or [LinkedIn](https://www.linkedin.com/in/brendan-tsuda/)
 
